@@ -1,4 +1,4 @@
-# sentiment-analysis-ai
+# sentiment-analysis-AI
 A simple AI project for text sentiment analysis
 sentiment-analysis-ai/
 │
