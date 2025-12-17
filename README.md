@@ -16,3 +16,6 @@ A simple AI project that predicts whether a sentence is positive or negative.
    python sentiment_analysis.py
 
 3. Enter a sentence and the model will tell you if it's positive or negative.
+## Summary
+
+This is a simple AI project for text sentiment analysis. It predicts whether a sentence is positive or negative using a Naive Bayes classifier.
